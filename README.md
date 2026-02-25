@@ -3,55 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SkyTeam CyberSecurity</title>
-  <style>
-    body {
-      background-color: #0d0d0d;
-      color: #00ff99;
-      font-family: "Courier New", monospace;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background: #111;
-      padding: 20px;
-      text-align: center;
-      border-bottom: 2px solid #00ff99;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.5em;
-      text-transform: uppercase;
-    }
-    section {
-      padding: 40px;
-      max-width: 900px;
-      margin: auto;
-    }
-    h2 {
-      color: #00ffcc;
-      border-bottom: 1px solid #00ffcc;
-      padding-bottom: 5px;
-    }
-    ul {
-      list-style-type: "⚡ ";
-      padding-left: 20px;
-    }
-    footer {
-      background: #111;
-      text-align: center;
-      padding: 20px;
-      border-top: 2px solid #00ff99;
-      font-size: 0.9em;
-    }
-    a {
-      color: #00ffcc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
+  
 </head>
 <body>
   <header>

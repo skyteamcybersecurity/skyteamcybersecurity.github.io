@@ -1,48 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-</head>
-<body>
-  <header>
-    <h1>SkyTeam CyberSecurity</h1>
-    <p>Empowering learners & organizations worldwide</p>
-  </header>
+# ⚡ SkyTeam CyberSecurity
 
-  <section>
-    <h2>🚀 Intro</h2>
-    <p>
-      We are a global learning agency dedicated to ethical hacking, web security, and hands-on labs.
-      Our mission: build safer digital communities through bilingual, accessible, and gamified education.
-    </p>
-  </section>
+> *Global learning agency for ethical hacking, web security, and hands-on labs.*  
+> Building safer digital communities through bilingual, accessible, and gamified education.
 
-  <section>
-    <h2>🔐 Services</h2>
-    <ul>
-      <li>Ethical Hacking Labs – practice real-world attack & defense scenarios</li>
-      <li>Web Security Training – secure coding, vulnerabilities, and defenses</li>
-      <li>Cybersecurity Workshops – interactive sessions for teams & learners</li>
-      <li>Automation & Workflow Design – scalable publishing & testing systems</li>
-      <li>Community Engagement – bilingual resources & demo scripts</li>
-      <li>Consulting & Support – troubleshooting and sustainable security practices</li>
-    </ul>
-  </section>
+---
 
-  <section>
-    <h2>📜 Privacy Policy</h2>
-    <p>
-      We respect your privacy. Basic information may be collected if you contact us directly.
-      We never sell or share personal data. For full details, see our 
-      <a href="privacy.html">Privacy Policy</a>.
-    </p>
-  </section>
+## 🔐 About Us
+SkyTeam CyberSecurity empowers learners and organizations worldwide with:
+- Ethical Hacking Labs  
+- Web Security Training  
+- Cybersecurity Workshops  
+- Automation & Workflow Design  
+- Community Engagement Resources  
+- Consulting & Support  
 
-  <footer>
-    <p>© 2026 SkyTeam CyberSecurity | Built with ❤️ on GitHub Pages</p>
-  </footer>
-</body>
-</html>
+We believe in **open knowledge**, **hands-on practice**, and **inclusive learning**.
 
+---
+
+## 🌐 Website
+Visit our official site:  
+👉 [skyteamcybersecurity.github.io](https://skyteamcybersecurity.github.io)
+
+---
+
+## 📜 Privacy Policy
+We respect your privacy. Read our full policy here:  
+👉 [Privacy Policy](https://skyteamcybersecurity.github.io/privacy.html)
+
+---
+
+## 🛠 Contributing
+We welcome collaboration!  
+- Fork this repo  
+- Submit pull requests  
+- Share ideas in Issues  
+
+Together, we can build a safer digital world.
+
+---
+
+## ⚡ Hacker Vibe
+```bash
+$ echo "Stay ethical. Stay secure. Stay SkyTeam."
